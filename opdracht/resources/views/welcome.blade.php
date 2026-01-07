@@ -52,7 +52,7 @@
             <li><a href="#contact" class="hover:text-red-400 transition">Contact</a></li>
         </ul>
     </nav>
-
+    
     <!-- Hero -->
     <header class="container mx-auto px-4 pt-16 pb-12 text-center flex flex-col items-center gap-6 z-10">
         <!-- <img src="https://i.pravatar.cc/256?u=michel" alt="Profile" class="w-40 h-40 rounded-full border-4 border-red-800 glow mb-4 shadow-lg"> -->
